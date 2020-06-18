@@ -1,0 +1,25 @@
+brainstorm
+snake on steroids
+
+player controls a sorcerer whose life is bound to a snake
+if the snake dies, the player dies
+the bigger the snake gets, the bigger is the player mana pool
+
+
+- one boss per level
+- player is a mage and has a set of spells to fight the boss
+- game is gesture based?
+- player needs to collect mana to fill up mana pool
+- player has a card draft of spells as resources
+- game follows a rogue-like pattern
+- the player needs to cast a spell (play the control card) to control the snake
+- game will include two modes: "classic snake" and "snake on steroids"
+- player can jump to "snake on steroids" game mode from the "classic snake" mode after its secret is discovered (reward the player with a spell card for finding out how?)
+- game will include many mini-games: each boss will play as a different minigames
+mini-games in mind: race (as temple run / subway surfers), music-based (simplified guitar hero - just follow the beats), traditional snake (but with zombies that can eat the snake)
+- bosses has special different spells (one or two special skills per boss at most), such as: summon a call on player's phone - whatthehellscreen spell (player will need to solve a small maze puzzle to "unlock the screen"), dim screen light to almost black - didmyphoneturnedoff spell (player will need to draw a lamp like mario party's stone crusher - there will be guidelines), swap one of the cards effects (and somehow create a condition so the player needs to play that card), continuously stack screen notifications to fill up the screen - notificationhell spell (player will need to close each notification by sliding it sideways).
+- all bosses will be animated
+- bosses will have subtle vulnerabilities as: screen shake, rotate the screen by 180 degrees, not staring at the phone screen for X seconds (maybe 10s?)
+
+- there will be global and local ranks
+- share achievment on facebook / whatsapp?
